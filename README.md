@@ -42,9 +42,14 @@ Hi, I'm [Devansh Karia!](https://devanshkaria.codes/#/), a passionate self-taugh
 
 
 
+
+
+
+
+
 📈 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=devanshkaria88&show_icons=true&theme=gotham" alt="devanshkaria88" />
+<img src="https://github-readme-stats.vercel.app/api?username=devanshkaria88&show_icons=true&theme=dark" alt="devanshkaria88" />
 
 
 
