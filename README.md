@@ -38,19 +38,18 @@ Hi, I'm [Devansh Karia!](https://devanshkaria.codes/#/), a passionate self-taugh
 
 
 
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
 <!-- <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
 
 
-
-
-
-
-
 📈 My GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=devanshkaria88&show_icons=true&theme=dark" alt="devanshkaria88" />
-
-
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=devanshkaria88&show_icons=true&theme=dark&bg_color=35,51B87F,19527A,141518,3030FC" alt="devanshkaria88" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshkaria88&bg_color=35,51B87F,19527A,141518,3030FC&theme=dark" alt="devanshkaria88" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=devanshkaria88&bg_color=35,51B87F,19527A,141518,3030FC&theme=dark" alt="devanshkaria88" />
 
 
