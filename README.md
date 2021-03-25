@@ -46,7 +46,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=devanshkaria88&show_icons=true&theme=dark&bg_color=35,51B87F,19527A,141518,3030FC" alt="devanshkaria88" />
+<img src="https://github-readme-stats.vercel.app/api?username=devanshkaria88&show_icons=true&theme=dark&bg_color=35,51B87F,19527A,141518,3030FC&count_private=true" alt="devanshkaria88" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshkaria88&bg_color=35,51B87F,19527A,141518,3030FC&theme=dark" alt="devanshkaria88" />
 <br>
